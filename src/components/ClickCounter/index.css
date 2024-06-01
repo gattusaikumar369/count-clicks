@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: 40px;
+  font-family: roboto;
+  font-weight: bold;
+}
+.para {
+  color: #f1f5f8;
+  font-size: 18px;
+  font-family: roboto;
+}
+
+.count-num {
+  color: #c20a72;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: roboto;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  cursor: pointer;
+  outline:none;
+}
